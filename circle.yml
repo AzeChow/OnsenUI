@@ -7,7 +7,7 @@ dependencies:
     - cd css-components; npm install
 test:
   override:
-    - echo "Add tests!"
+    - echo "Add tests!!"
 deployment:
   tasks:
     branch: master
